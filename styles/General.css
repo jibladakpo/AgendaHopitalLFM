@@ -1,0 +1,108 @@
+body {
+  background-color: #008040;
+}
+#corps {
+  background-color: #ffffff;
+  height: auto;
+  width: 1000px;
+  margin:auto;
+}
+
+#corps2 {
+  background-color: #ffffff;
+  height: 130px;
+  width: 1000px;
+  margin:auto;
+}
+
+
+.wrapper_liste{
+	
+	position:relative;
+	left:10px;
+	 display:inline-block;
+	margin-left:20px;
+	 vertical-align:top;
+}
+#header {
+  background-color: #009d4f;
+  height: 5em;
+  width: 1100px;
+  margin:auto;
+}
+
+#header p {
+  
+  color: lightgrey;
+  text-transform: uppercase;
+  font-size: 2em;
+  letter-spacing: 0.2em;
+  margin:auto;
+  text-align: center;
+  position: relative;
+  top: 0.95em;
+}
+
+#header a {
+  color: #ffffff;
+}
+
+#header a:hover {
+  color: #F7BE3C;
+}
+
+
+.navbar {
+  height: 3em;
+  width: 1100px;
+  background-color: #ffffff;
+  box-shadow: 0px 10px 10px #B8B8B8;
+  margin: auto;
+ 
+}
+
+.navbar p {
+
+  color: lightgrey;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 15px;
+  letter-spacing: 0.1em;
+  display: inline-block;
+  margin-left: 45px;
+  
+  top: 0.95em;
+}
+
+a {
+  text-decoration: none;
+  color:#6C6C6C;
+}
+
+a:hover {
+  color: #EDC745;
+}
+#accueil a:hover {
+    color: #B177E2;
+}
+
+
+
+table
+{
+    border-collapse: collapse; /* Les bordures du tableau seront collées (plus joli) */
+}
+td
+{
+	
+    border: 1px solid black;
+}
+
+th,td {
+    text-align: center;
+}
+
+#planning{
+	 display: inline-block;
+	 
+}
